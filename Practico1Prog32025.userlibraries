@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.apache.logging.log4j:log4j-core:2.3.2">
+    <archive path="C:/Users/Luis Enrique Saucedo/.m2/repository/org/apache/logging/log4j/log4j-core/2.3.2/log4j-core-2.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.3.2">
+    <archive path="C:/Users/Luis Enrique Saucedo/.m2/repository/org/apache/logging/log4j/log4j-api/2.3.2/log4j-api-2.3.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
